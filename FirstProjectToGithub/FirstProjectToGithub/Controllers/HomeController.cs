@@ -18,6 +18,7 @@ namespace FirstProjectToGithub.Controllers
         {
           return View();
         }
+        
 
         public ActionResult CheckingPage()
         {
