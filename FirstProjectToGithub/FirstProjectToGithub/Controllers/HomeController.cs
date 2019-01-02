@@ -14,7 +14,8 @@ namespace FirstProjectToGithub.Controllers
         {
             return View();
         }
-        public ActionResult MyNewPage(){
+        public ActionResult MyNewPage()
+        {
           return View();
         }
 	}
